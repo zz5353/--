@@ -1,0 +1,122 @@
+/*reset*/
+body{
+	margin: 0px;
+	padding:0px;
+	/*public*/
+}
+.bg{
+	background-image: url(http://www.qdjj.net/images/beijing.gif);
+}
+.main{
+	width: 710px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	background-color: white;
+	border-radius: 25px;
+	line-height: 120%;
+	padding-bottom: 30px;
+}
+/*head*/
+
+.logo{
+	margin-left:25px;
+	display: inline-block;
+}
+
+.na{
+	display: inline-block;
+	float:right;
+	margin-right: 25px;
+	margin-top: 55px;
+	font-size:12px;
+}
+
+.na a{
+	color: red;
+	text-decoration: none;
+}
+
+/*middle*/
+
+.imp{
+	color: red;
+}
+table{
+	border: 1px solid #C4C4C4;
+	width: 640px;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right: auto;
+	font-size: 12px;
+	text-align: center;
+}
+table td{
+	height: 24px;
+}
+table a{
+	display: inline-block;
+	margin-left: -5px;
+	margin-right:-5px;
+}
+table a:link{
+	color:blue;
+}
+table a:visited{
+	color:blue;
+}
+table a:hover{
+	color:red;
+}
+table a:active{
+	color: red;
+}
+.subject lable{
+	display: inline-block;
+}
+.tips{
+	color: #0000ff;
+}
+
+#textfield3{
+	display: inline-block;
+	width: 120px;
+}
+#textfield4{
+	width:120px;
+}
+h4{
+	color:blue;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: left;
+}
+
+textarea{
+	width: 440px;
+	height: 90px;
+	resize: none;
+}
+
+.subject{
+	margin-top: 8px;
+}
+
+.subject span{
+	display: block;
+}
+
+#submit{
+	height: 85px;
+}
+
+/*foot*/
+footer{
+	font-size: 12px;
+	text-align: center;
+}
+#copyr{
+	color: rgb(102, 102, 102);
+}
